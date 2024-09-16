@@ -1,4 +1,3 @@
-app.use("/js", express.static('./js/'));
 
 
 let features = $("#features").offset().top;
